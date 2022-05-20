@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/exclude
+/figures
+/input
+/networks
+/old
+/output
