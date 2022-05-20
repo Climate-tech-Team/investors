@@ -11,4 +11,4 @@ exclude/companies-exclude-20220504.csv: companies to exclude in preprocessing be
 
 output/investors_20220504.csv: remaining companies, investors, and their details after preprocessing and additional filters
 
-output/investors_consolidated_20220504.csv: consolidated metrics for each type of investor for each each year
+output/investors_consolidated_20220504.csv: consolidated metrics for each type of investor for each year
